@@ -62,4 +62,4 @@ myHashTable.set("Grapes", 10000);
 myHashTable.set("apples", 54);
 myHashTable.set("oranges", 900);
 console.log(myHashTable.keys());
-//console.log(myHashTable.get("grapes"));
+console.log(myHashTable.get("grapes"));
